@@ -1,0 +1,18 @@
+.social{
+     background-color: white;
+     text-align: center;
+     list-style: none;
+     min-height: 60vh;
+}
+.social_text{
+      color: #222;
+      font-weight: bold;
+      font-size: 1.5em;
+}
+
+.social_chart{
+      display: flex;
+      justify-content: space-between;
+      padding: 3em;
+      margin: auto;
+}

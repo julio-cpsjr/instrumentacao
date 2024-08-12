@@ -1,0 +1,21 @@
+.App{
+    text-align: center;
+    min-height: 60vh;
+ }
+
+.instrumento {
+    width: 100%;
+    color: black;
+    display: flex;
+    font-weight: bold;
+    list-style-type: none;
+}
+.instrumento li {
+    margin: 0 1em;
+    justify-items: center;
+
+}
+.buttom{
+    font-weight: bold;
+    color: black;
+}
